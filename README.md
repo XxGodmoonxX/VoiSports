@@ -7,8 +7,8 @@ VoiSports
 VoiSports
 
 ## Team Member
-Motoki Watanabe
-Shinsuke Tomizawa
+Motoki Watanabe<br>
+Shinsuke Tomizawa<br>
 Soma Sakata
 
 ## What we did
