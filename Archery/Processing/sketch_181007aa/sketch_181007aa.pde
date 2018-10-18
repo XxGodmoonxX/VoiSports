@@ -18,7 +18,7 @@ void setup() {
   fill(200,0,0);
      println(Arduino.list());
 
-    arduino = new Arduino(this,"/dev/cu.usbmodem14231", 57600);
+    arduino = new Arduino(this,"/dev/cu.usbmodem14111", 57600);
  arduino.pinMode(9, Arduino.SERVO);
 
 }
@@ -38,7 +38,7 @@ void draw() {
  // arduino.analogWrite(9, constrain(mouseX / 2, 0, 180));
 //  arduino.analogWrite(11, constrain(180 - mouseX / 2, 0, 180));
   
-  if(volumeIn >600){
+  if(volumeIn >320){
      //arduino.myservo.write(30); 
    //  arduino.servoWrite(0,180);
      arduino.analogWrite(9, constrain(100 , 0, 360));
