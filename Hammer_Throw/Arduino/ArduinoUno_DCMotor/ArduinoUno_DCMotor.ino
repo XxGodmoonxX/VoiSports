@@ -36,7 +36,7 @@ void loop() {
   //DCMotor
   //LEDついてたら動く
   if (state == 1) {
-    if (sound_value > 50) {
+    if (sound_value > 70) {
     digitalWrite(motor, HIGH);
     } else {
     digitalWrite(motor, LOW);
