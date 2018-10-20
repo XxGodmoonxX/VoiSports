@@ -12,4 +12,6 @@ Shinsuke Tomizawa<br>
 Soma Sakata
 
 ## What we did
-Sports by voice.
+VoiSports is new sports game with only your voice without using hand.
+This game supports to communicate with others, regardless gender, physical difference.
+You can play Archery & HammerThrow in this game.
