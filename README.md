@@ -7,12 +7,9 @@ VoiSports
 VoiSports
 
 ## Team Member
-Motoki Watanabe (keio University)<br>
-- HammerThrow(Software, Hardware)<br>
-Shinsuke Tomizawa (keio University)<br>
-- Archery(Software(Python, Processing), Hardware), Poster<br>
-Soma Sakata (keio University)<br>
-- Archery(Software(Arduino), Hardware), Movie
+Motoki Watanabe (keio University) - HammerThrow(Software, Hardware)<br>
+Shinsuke Tomizawa (keio University) - Archery(Software(Python, Processing), Hardware), Poster<br>
+Soma Sakata (keio University) - Archery(Software(Arduino), Hardware), Movie
 
 ## What we did
 VoiSports is new sports game with only your voice without using hand.<br>
